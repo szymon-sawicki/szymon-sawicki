@@ -28,6 +28,7 @@ Projects:
 
 Java 16  
 Javascript (basic level)
+SQL
 
 Frameworks
 - Spring core, web
