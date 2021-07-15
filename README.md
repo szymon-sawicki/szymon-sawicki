@@ -2,7 +2,7 @@
 
 Hi! 
 
-My name is Szymon and I come from Poland. I'm 34 years old, I have moved to Vienna since 2012. At the moment I'm focusing on searching for an entry level job as a junior java developer.
+My name is Szymon and I come from Poland. I'm 34 years old, I have moved to Vienna since 2012 until now. At the moment I'm focusing on searching for an entry level job as a junior java developer.
 I'm learning with a great mentor and after a 1,5 years journey with java it comes time for new challenges as a professional developer. 
 
 ## My projects
