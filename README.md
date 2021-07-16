@@ -27,7 +27,7 @@ Projects:
 ## My Technology Stack
 
 Java 16  
-Javascript (basic level)
+Javascript (basic level). 
 SQL
 
 Frameworks
