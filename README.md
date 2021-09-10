@@ -13,12 +13,13 @@ Planned finish of the project: 15 september.
 
 ## My projects
 
+At the moment i'm ending my first bigger project - backend for cinemas network - with MySQL (persistence framework - jdbi) as database and REST API for communication with frontend (web framework - spark framework). My next project i will make in spring environment (Spring Boot, JPA, Security).
+
+
 I already finished 3 simple training projects. They don't have a persistence layer - I wanted to train the project's architecture, REST API, collections and composition.
 
 REST API in my projects ist made with  Spark web framework. I've already trained API's with Spring Web, but for my simple projects I needed something lightweight.
  Also I have made mappings using only GET methods.
-
-I try to develop using TDD approach,  because I like to have fast feedback about current changes in my code.
 
 Projects:
 
