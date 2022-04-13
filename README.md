@@ -6,10 +6,10 @@ My name is Szymon and I come from Poland. I'm junior software developer currentl
 
 ## My Technology Stack
 
-Java 18
-Javascript, Typescript (basic level)
-SQL
-MongoDB
+Java 18  
+Javascript, Typescript   
+SQL  
+MongoDB  
 
 Frameworks
 - Spring core, boot, data, security
