@@ -42,11 +42,9 @@ I'm a **Software Developer** based in Vienna, Austria 🇦🇹, with over **3 ye
 
 ## 💡 Projects & Contributions
 
-- **[Banking System API](#)**: A sample API for banking operations using Java and Spring Boot.
+- **[GitHub repositories](https://github.com/szymon-sawicki?tab=repositories)**: Multiple smaller projects for learning purposes (microservices, modulith, rabbitmq ...)
 - **[Microservices Demo](#)**: Demonstrated the decomposition of a monolithic system into microservices.
-- **[Personal Tech Blog](#)**: Sharing insights, tutorials, and experiences related to software development.
-
-*(Note: Replace `#` with the actual links to your projects.)*
+- **[Personal Tech Blog](https://szymonsawicki.net/)**: Sharing insights, tutorials, and experiences related to software development.
 
 ## 🌐 Languages
 
